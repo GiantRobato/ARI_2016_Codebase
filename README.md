@@ -1,1 +1,4 @@
-# ARI_2016_Codebase
+###### ARI_2016_Codebase
+
+###contributors
+#Zakary Stone
